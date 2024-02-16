@@ -18,6 +18,11 @@ This C program helps users calculate the total cost of purchasing various produc
 
   `./program_name`
 
+4 . Enter Details: Follow the prompts to enter the quantity of each product and whether you want gift wrapping.
+
+5 . View Results: Once you've entered all details, the program will display the order summary.
+
+
 <hr>
 
 <h5 align="center">Connect with me!</h5>
