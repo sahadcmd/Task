@@ -4,7 +4,7 @@
 
 This C program helps users calculate the total cost of purchasing various products. It incorporates discount rules, such as bulk discounts and flat discounts, based on the quantity and types of products selected. Users can also opt for gift wrapping for an additional fee per unit. With simple prompts and clear output, this program offers an efficient way to manage purchases and understand total costs.
 
-## How to use this program
+## How to use this program 
 
 1 . Clone the repository to your local machine:
 
