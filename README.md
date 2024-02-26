@@ -10,7 +10,7 @@ This C program helps users calculate the total cost of purchasing various produc
 
   `git clone <repository-url>`
 
-2 . Compile the program using a C compiler:
+2 . Compile the program using a C compiler: 
 
   `gcc -o program_name program_name.c`
 
