@@ -14,7 +14,7 @@ This C program helps users calculate the total cost of purchasing various produc
 
   `gcc -o program_name program_name.c`
 
-3 . Run the compiled program:
+3 . Run the compiled program: 
 
   `./program_name`
 
